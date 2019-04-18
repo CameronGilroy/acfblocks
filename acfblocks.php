@@ -3,7 +3,7 @@
  * Plugin Name: ACF Blocks
  * Plugin URI:  https://acfblocks.com/
  * Description: Suite of customisable Gutenberg blocks using ACF.
- * Version:     0.1
+ * Version:     0.1.0
  * Author:      munirkamal
  * Author URI:  https://munirkamal.wordpress.com
  * License:     GPL2
